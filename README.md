@@ -14,7 +14,7 @@ TSMeeting is a slack bot, that will not let you remain untouched from your team 
   - `/tslunch` - to organinze instant online lunch/ tea sessions
   
     USAGE: 
-    1.  /tslunch - this is a fun way of organizing online lunch sessions. Once this command is run inside a channel, it will send a message that someone from particular department/ office wants to host online lunch session. **The identity of host is not shared inside channel**. Only the one who joins him for lunch will know the identity. In order to join, attendee need to get permission of host (wait zone). The message inside channel will be auto deleted after 30 minutes. 
+    1.  `/tslunch` - this is a fun way of organizing online lunch sessions. Once this command is run inside a channel, it will send a message that someone from particular department/ office wants to host online lunch session. **The identity of host is not shared inside channel**. Only the one who joins him for lunch will know the identity. In order to join, attendee need to get permission of host (wait zone). The message inside channel will be auto deleted after 30 minutes. 
 
 ## ScreenShots
 
