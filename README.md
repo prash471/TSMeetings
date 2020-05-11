@@ -9,8 +9,8 @@ TSMeeting is a slack bot, that will not let you remain untouched from your team 
   - `/tsmeet` - to organize instant meetings
   
     USAGE: 
-    1. `/tsmeet <username1> <usernmame2> .... Agenda` - this will create a meeting with mentioned users and send them notification to join
-    2. `/tsmeet <username1> ... <channel> ... Agenda` - this will create a meeting with users and channel users and send notification to users and channels
+    1. `/tsmeet <username1> <usernmame2> .... Agenda` - this will create instant meeting with mentioned users and send them notification to join
+    2. `/tsmeet <username1> ... <channel> ... Agenda` - this will create instant meeting with users and channel users and send notification to users and channels
   - `/tslunch` - to organinze instant online lunch/ tea sessions
   
     USAGE: 
