@@ -22,7 +22,7 @@ Meeting Requests
 ![Meeting Request](https://github.com/prash471/TSMeetings/blob/master/images/MeetingRequest.png?raw=true)
 
 
-Lunch Invitations
+Lunch Invitations (inside some active channel)
 ![Lunch Invitation](https://github.com/prash471/TSMeetings/blob/master/images/LunchInvitationChannel.png?raw=true)
 
 
