@@ -26,7 +26,7 @@ Lunch Invitations (inside some active channel)
 ![Lunch Invitation](https://github.com/prash471/TSMeetings/blob/master/images/LunchInvitationChannel.png?raw=true)
 
 
-Attendees Waiting
+Attendees Waiting (Cannot join till host approves)
 ![Attendeee Waiting](https://github.com/prash471/TSMeetings/blob/master/images/AttendeeWaiting.png?raw=true)
 
 
